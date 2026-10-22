@@ -1,0 +1,4 @@
+Model,Accuracy,Precision,Recall,F1,AUC-ROC
+Logistic Regression,0.852,0.806,0.893,0.847,0.942
+LDA,0.902,0.867,0.929,0.897,0.952
+QDA,0.902,0.867,0.929,0.897,0.94
